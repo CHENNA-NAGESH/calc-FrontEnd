@@ -22,6 +22,7 @@ section{
 td{
   color: green;
   font-weight: bold;
+  width : 50px;
 }
 
 input, label{
